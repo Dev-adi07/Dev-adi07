@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
-<h3 align="center">💻 Aspiring Software Engineer | C++ • Python • JavaScript</h3>
+<h3 align="center">💻 Aspiring Electronic and Communication Engineer | C++ • Python • JavaScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+Developer;DSA+Learner;Future+Full+Stack+Developer" />
