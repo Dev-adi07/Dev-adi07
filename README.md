@@ -70,6 +70,8 @@ Python • Pandas • NumPy • Scikit-Learn • XGBoost • Optuna • Matplotl
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 ---
 
 ### Future Full Stack Stack
