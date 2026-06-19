@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech ECE '26
-- 💻 Aspiring Software Engineer
+- 💻 Aspiring Electronic and Communication Engineer
 - ⚡ Strong foundation in C++, Python & JavaScript
 - 🛡️ Built a Machine Learning Based Intrusion Detection System (IDS)
 - 🤖 Interested in Machine Learning, Software Development & Problem Solving
