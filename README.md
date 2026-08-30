@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
-<h3 align="center">💻 Aspiring Electronic and Communication Engineer | C++ • Python • JavaScript</h3>
+<h3 align="center">💻 Electronic and Communication Engineer | C++ • Python • JavaScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&width=700&lines=Aspiring+Software+Engineer;Machine+Learning+Developer;DSA+Learner;Future+Full+Stack+Developer" />
@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech ECE '26
-- 💻 Aspiring Electronic and Communication Engineer
+- 💻 Electronic and Communication Engineer
 - ⚡ Strong foundation in C++, Python & JavaScript
 - 🛡️ Built a Machine Learning Based Intrusion Detection System (IDS)
 - 🤖 Interested in Machine Learning, Software Development & Problem Solving
